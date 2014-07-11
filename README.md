@@ -1,4 +1,4 @@
 f1
 ==
 
-this is f1-appli of repository.
+this is repository of f1-appli.
